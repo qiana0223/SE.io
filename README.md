@@ -2,7 +2,7 @@
 ### [Approach Implementation](https://github.com/Qiana0223/wqp_app_1)
 This is the repository hosting the code that implements an approach to making symbolic execution on Ethereum smart contracts more scalable.  The code is built on top of [Mythril](https://github.com/ConsenSys/mythril) and [Slither](https://github.com/crytic/slither)
 
-### [Experiment Code](https://github.com/Qiana0223/DataPreparation)
+### [Experiment Related Code](https://github.com/Qiana0223/DataPreparation)
 This is the repository containing the code to prepare for data for Singularity containerization based experiments and the code to extract experiment results.
 
 
