@@ -14,7 +14,7 @@ A bibliography of papers on security and testing of Ethereum smart contracts.
 ### [Symbolic Execution Papers](https://github.com/XMUsuny/symbolic-execution-papers)
 This repository is for collecting and grouping the symbolic execution papers and open source tools in recent years.
 
-## Vulnerability Classification
+## Vulnerability Classifications
 ### [Smart Contract Weakness Classification Registry (SWC)](https://github.com/SmartContractSecurity/SWC-registry)
 The Smart Contract Weakness Classification Registry (SWC Registry) is an implementation of the weakness classification scheme proposed in [EIP-1470](https://github.com/ethereum/EIPs/issues/1469). It is loosely aligned to the terminologies and structure used in the Common Weakness Enumeration ([CWE](https://cwe.mitre.org/)) while overlaying a wide range of weakness variants that are specific to smart contracts.
 
