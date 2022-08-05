@@ -12,4 +12,13 @@ This repository is for collecting and grouping the symbolic execution papers and
 ## [Decentralized Application Security Project (DASP)](https://dasp.co/#item-9)
 This is the very first iteration of the  Decentralized Application Security Project (or DASP) Top 10 of 2018
 
+###[Smart Contract Weakness Classification Registry(SWC)](https://github.com/SmartContractSecurity/SWC-registry)
+The Smart Contract Weakness Classification Registry (SWC Registry) is an implementation of the weakness classification scheme proposed in EIP-1470. It is loosely aligned to the terminologies and structure used in the Common Weakness Enumeration (CWE) while overlaying a wide range of weakness variants that are specific to smart contracts.
+
+The goals of this project are as follows:
+
+Provide a straightforward way to classify security issues in smart contract systems.
+Define a common language for describing security issues in smart contract systems' architecture, design, or code.
+Serve as a way to train and increase performance for smart contract security analysis tools.
+
 This project is an initiative of [NCC Group](https://www.nccgroup.trust/). It is an open and collaborative project to join efforts in discovering smart contract vulnerabilities within the security community. To get involved, join the Github page.
