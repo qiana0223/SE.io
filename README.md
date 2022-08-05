@@ -30,9 +30,17 @@ This is the very first iteration of the  Decentralized Application Security Proj
 
 This project is an initiative of [NCC Group](https://www.nccgroup.trust/). It is an open and collaborative project to join efforts in discovering smart contract vulnerabilities within the security community. To get involved, join the [Github](https://github.com/CryptoServices/dasp) page.
 
-## Datasets
-### [SGUARD]()
-### [SB Curated]()
-### [SB Wide]()
-### [SolidiFi]()
+## Benchmarks
+### [sGuard benchmark](https://github.com/duytai/sGuard/issues/22)
+This is the benchmark used in the paper [SGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://ieeexplore-ieee-org.ezproxy.uta.edu/stamp/stamp.jsp?tp=&arnumber=9519444). It contains 5000 contracts whose verified source
+code are collected from EtherScan. The dataset can be downloaded from this [link]( https://drive.google.com/file/d/1xMa_9n4uf5Ssl3RDsXR6opN_wfRPEhdM/view?usp=sharing).
+
+### [SB Curated: A Curated Dataset of Vulnerable Solidity Smart Contracts](https://github.com/smartbugs/smartbugs/tree/master/dataset)
+SB Curated is a dataset for research in automated reasoning and testing of smart contracts written in Solidity, the primary language used in Ethereum. It is part of the executional framework SmartBugs, which allows the possibility to integrate tools easily, so that they can be automatically compared (and their results reproduced). To the best of our knowledge, SmartBugs is the largest dataset of its kind.
+
+### [SmartBugs Wild Dataset](https://github.com/smartbugs/smartbugs-wild)
+This repository contains 47,398 smart contracts extracted from the Ethereum network.
+[SmartBugs](https://github.com/smartbugs/smartbugs) was used to analyze this dataset. The [results](https://github.com/smartbugs/smartbugs-results) are available, please see the ICSE 2020 paper.
+### [SolidiFI Benchmark](https://github.com/smartbugs/SolidiFI-benchmark)
+SolidiFI-benchmark repository contains a dataset of buggy contracts injected by 9369 bugs from 7 different bug types, namely, reentrancy, timestamp dependency, uhnadeled exceptions, unchecked send, TOD, integer overflow/underflow, and use of tx.origin. The bugs have been injected in the contracts using SolidiFI.
 
