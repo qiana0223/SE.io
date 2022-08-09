@@ -44,3 +44,4 @@ This repository contains 47,398 smart contracts extracted from the Ethereum netw
 #### [SolidiFI Benchmark](https://github.com/smartbugs/SolidiFI-benchmark)
 SolidiFI-benchmark repository contains a dataset of buggy contracts injected by 9369 bugs from 7 different bug types, namely, reentrancy, timestamp dependency, uhnadeled exceptions, unchecked send, TOD, integer overflow/underflow, and use of tx.origin. The bugs have been injected in the contracts using SolidiFI.
 
+#### [Smartian Benchmarks](https://github.com/SoftSec-KAIST/Smartian-Artifact/tree/main/benchmarks)
