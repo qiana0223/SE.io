@@ -7,7 +7,7 @@ This is the repository containing the code to prepare for data for Singularity c
 
 
 ## Papers
-#### [Papers on Security and Testing of Ethereum Smart Contracts](https://github.com/Qiana0223/bibliography_security_testing_smart_contracts)
+#### [Papers on Security and Testing of Ethereum Smart Contracts](https://github.com/Qiana0223/paper_collection)
 A bibliography of papers on security and testing of Ethereum smart contracts.
 
 
